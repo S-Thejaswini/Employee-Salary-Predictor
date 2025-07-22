@@ -1,4 +1,3 @@
-# Employee-Salary-Predictor
 
 # 🧑‍💼 Employee Salary Predictor
 
@@ -96,7 +95,6 @@ This project is for educational purposes only. You are free to modify and use it
 ## 🙋‍♀️ Author
 
 **S Thejaswini**  
-`ML + Web App Developer | Streamlit Enthusiast`
 
 ---
 
