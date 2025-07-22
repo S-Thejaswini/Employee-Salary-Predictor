@@ -76,12 +76,15 @@ This is a machine learning web application that predicts whether an individual's
 ## 📁 Project Structure
 
 ```
-employee-salary-predictor/
-├── app.py                     # Streamlit app
-├── salary_prediction_pipeline.pkl
-├── label_encoder.pkl
-├── requirements.txt
-└── README.md
+Employee-Salary-Predictor/
+│
+├── app.py                            # Flask app to serve the model
+├── emp_salary_prediction.ipynb      # Notebook used to build/train model
+├── label_encoder.pkl                # LabelEncoder for income classes
+├── salary_prediction_pipeline .pkl  # Trained RandomForest model (note the space)
+├── requirements.txt                 # Dependencies
+├── README.md                        # Project documentation
+
 ```
 
 ---
